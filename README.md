@@ -26,7 +26,7 @@ Este Workflow utiliza:
 que o npm irá instalar todas as dependencias do projeto na pasta node_modules*
 
 #estrutura de pastas#
-#estrutura de pastas#
+
 para que o workflow funcione perfeitamente atente-se à estrutura de pastas do projeto:
 ```
 root
