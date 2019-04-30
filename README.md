@@ -8,6 +8,7 @@ Este Workflow utiliza:
 	handlebars.js
 	Bootstrap
 	Font-awesome
+	Animate.css
 	tasks do gulp
 
 

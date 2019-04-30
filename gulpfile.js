@@ -13,12 +13,12 @@ const browserSync = require("browser-sync").create();
 const path = {
 	root: "./",
 	src: {
-		root: 		"src/",
-		fonts: 		"src/fonts/**/*",
-    samples: 	"src/samples/**/*.{jpg,svg,png,jpeg,JPG,PNG}",
-		scss: 		"src/scss/**/*.{sass,scss}",
-    js: 			"src/js/**/*.js",
-    templates:  "src/templates/"
+		root: 		"app/",
+		fonts: 		"app/fonts/**/*",
+    samples: 	"app/samples/**/*.{jpg,svg,png,jpeg,JPG,PNG}",
+		scss: 		"app/scss/**/*.{sass,scss}",
+    js: 			"app/js/**/*.{js,json}",
+    templates:  "app/templates/"
 	},
 	dist: {
     root: "dist",
