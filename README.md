@@ -60,3 +60,8 @@ root
 
 Qualquer Dúvida entre em contato:
 email: lucas.flaquer@gmail.com
+
+
+
+#novas alteraçoes#
+atualizar os packages utilizados
